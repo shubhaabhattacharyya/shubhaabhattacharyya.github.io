@@ -1,4 +1,4 @@
-[Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact)
+[Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact) | [Other](/other)
 
 ## Welcome to my page!
 I am a PhD candidate in Economics at the Stockholm School of Economics.
