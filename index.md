@@ -7,6 +7,5 @@ My research focuses on labour and behavioural economics, with an emphasis on beh
 
 You can reach me at [shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@hhs.se), and find my [CV here](CV.pdf).
 
-### Connect with me:
 <a href="https://twitter.com/yourtwitterhandle" target="_blank"><i class="fab fa-twitter"></i> Twitter</a> | 
 <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
