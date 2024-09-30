@@ -1,3 +1,4 @@
+
 [Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact) | [Other](/other)
 
 ## Welcome to my page!
@@ -9,3 +10,7 @@ You can reach me at [shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@
 
 <a href="https://x.com/darklordseuss?t=2A798GJeeGExDBSLuaf4ZQ&s=08" target="_blank"><i class="fab fa-twitter"></i> Twitter</a> | 
 <a href="https://se.linkedin.com/in/shubhaa-bhattacharyya-2b81a011b" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+
+---
+
+![Your Name](assets/images/Handels_sep29_22_fotoJulianaWG_0130_websize.jpg)
