@@ -1,11 +1,7 @@
----
-layout: default
----
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="assets/images/Handels_sep29_22_fotoJulianaWG_0130_websize.jpg" alt="Shubhaa Bhattacharyya" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
+    <img src="assets/images/Handels_sep29_22_fotoJulianaWG_0130_websize.jpg" alt="Shubhaa Bhattacharyya" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
-        <!-- Optional text or additional content can go here -->
+       
     </div>
 </div>
 
