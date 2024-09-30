@@ -3,6 +3,10 @@
 ## Welcome to my page!
 I am a PhD candidate in Economics at the Stockholm School of Economics.
 
+<div style="float: left; margin-right: 20px;">
+    <img src="assets/images/Handels_sep29_22_fotoJulianaWG_0130_websize.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
+
 My research focuses on labour and behavioural economics, with an emphasis on behavioural biases.
 
 You can reach me at [shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@hhs.se), and find my [CV here](CV.pdf).
@@ -11,14 +15,3 @@ You can reach me at [shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@
 <a href="https://se.linkedin.com/in/shubhaa-bhattacharyya-2b81a011b" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
 
 ---
-
-<!-- Add the image with circular cropping and left alignment -->
-<div style="display: flex; align-items: center;">
-    <img src="assets/images/Handels_sep29_22_fotoJulianaWG_0130_websize.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;">
-    <div>
-        <p style="margin: 0;"><strong>Shubhaa Bhattacharyya</strong></p>
-        <p>PhD candidate in Economics, Stockholm School of Economics</p>
-    </div>
-</div>
-
-
