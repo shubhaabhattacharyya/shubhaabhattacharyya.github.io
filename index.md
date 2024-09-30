@@ -1,4 +1,3 @@
-
 [Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact) | [Other](/other)
 
 ## Welcome to my page!
@@ -13,4 +12,13 @@ You can reach me at [shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@
 
 ---
 
-![Your Name](assets/images/Handels_sep29_22_fotoJulianaWG_0130_websize.jpg)
+<!-- Add the image with circular cropping and left alignment -->
+<div style="display: flex; align-items: center;">
+    <img src="assets/images/Handels_sep29_22_fotoJulianaWG_0130_websize.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;">
+    <div>
+        <p style="margin: 0;"><strong>Shubhaa Bhattacharyya</strong></p>
+        <p>PhD candidate in Economics, Stockholm School of Economics</p>
+    </div>
+</div>
+
+
