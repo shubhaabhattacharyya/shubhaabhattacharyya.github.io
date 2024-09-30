@@ -1,3 +1,7 @@
+
+![Your Name](assets/images/Handels_sep29_22_fotoJulianaWG_0130_websize.jpg)
+
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="assets/images/Handels_sep29_22_fotoJulianaWG_0130_websize.jpg" alt="Shubhaa Bhattacharyya" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
