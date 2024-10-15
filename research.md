@@ -25,6 +25,6 @@
 </div>
 
 <div class="section" style="text-align: justify;">
-<h3>Remedial Help and the Educational Choices of Academically Vulnerable Students</h3>
+<h3>Remedial Help and the Educational Choices of Academically Vulnerable Students (with <em>Johan Orrenius</em>)</h3>
 
 </div>
