@@ -1,7 +1,7 @@
 # Research
 
 <div class="section" style="text-align: justify;">
-<h2>Working Papers</h2>
+
 
 <h3>Cultural Norms and the Labour Market Outcomes of Immigrants</h3>
 <p><strong>Abstract:</strong> This paper examines the influence of childhood cultural exposure on educational and occupational outcomes, with a particular focus on gender norms and occupational prestige. By combining the epidemiological approach with a mover design, I leverage rich administrative data on immigrant households to estimate the effects of cultural assimilation. Using variation in exposure to the culture of the country of origin among same-sex immigrant siblings, I explore how country-specific differences in gendered beliefs impact educational segregation, particularly in major choice. I further assess how collectivist cultural norms influence occupational choice, studying whether siblings exposed to different cultural environments pursue careers with varying occupational prestige. The analysis also extends to household-level decisions such as parental leave preferences and income disparities between older and younger female siblings, allowing me to estimate the childbirth penalty. Lastly, I compare immigrant siblings' labor market performance to that of native-born peers to observe possible misallocation of talent, which shapes our understanding of how ingrained cultural norms can shape labor market outcomes across generations.</p>
