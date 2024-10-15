@@ -9,7 +9,7 @@
     </div>
 </div>-->
 
-[Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact) | [Other](/other)
+[Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact) 
 
 ## Welcome to my page!
 I am a PhD candidate in Economics at the Stockholm School of Economics.
