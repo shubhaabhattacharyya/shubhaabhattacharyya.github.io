@@ -21,10 +21,10 @@
 
 <div class="section">
 <h3>Gender Differences in Perceived Abilities and Career Sorting (with Patrizia Massner, Andrew Proctor)</h3>
-<p><strong>Abstract:</strong> Work in progress.</p>
+
 </div>
 
 <div class="section">
-<h3>Remedial Help and the Educational Choices of Academically Vulnerable Students (with Johan Orrenius)</h3>
-<p><strong>Abstract:</strong> Work in progress.</p>
+<h3>Remedial Help and the Educational Choices of Academically Vulnerable Students</h3>
+
 </div>
