@@ -13,7 +13,7 @@
 </div>
 
 <div class="section" style="text-align: justify;">
-<h3>Non-Cooperative Technology Transfer with Two-Sided Credit Rationing (with co-authors: <em>Sugata Marjit</em>, <em>Arijit Mukherjee</em>, <em>Lei Yang</em>)</h3>
+<h3>Non-Cooperative Technology Transfer with Two-Sided Credit Rationing (with <em>Sugata Marjit</em>, <em>Arijit Mukherjee</em>, <em>Lei Yang</em>)</h3>
 <p><strong>Abstract:</strong> This paper analyses the technology transfer problem between firms in a duopoly set-up, where firms suffer due to severe financial constraints. The firm with superior technology may transfer their technology to the other provided such transfers generate a positive surplus that can be shared amongst the firms. We show that higher stringency in financial constraints makes technology transfers more likely. However, when the firms' technologies are close in comparison, such transfers are unlikely to be profitable, contrary to the findings in the conventional literature without financial considerations. We further extend our results to a more general set-up with finite receivers of technology and with exclusive, partial or fully open access technology transfer.</p>
 </div>
 
