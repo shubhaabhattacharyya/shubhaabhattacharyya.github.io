@@ -1,37 +1,55 @@
-# Other Interests
 
-In my spare time, I enjoy painting. Here are some of my paintings:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+In my spare time, I enjoy painting. Here are some of them!
 
-  <div style="margin: 20px;">
-    <img src="assets/images/IMG_20241020_050851.jpg" alt="Painting 1" style="width: 300px; height: auto;">
-    <p style="text-align: center;"> - [Kungstradgarden, Stockholm (Aquarelle on paper)]</p>
-  </div>
 
-  <div style="margin: 20px;">
-    <img src="assets/images/IMG_20241020_051207.jpg" alt="Painting 2" style="width: 300px; height: auto;">
-    <p style="text-align: center;"> - [This painting was based on "The Gift of Fall", I thank the Afremov foundation for their pemission to paint and display this.]</p>
-  </div>
+## Oil on canvas 
 
-  <div style="margin: 20px;">
-    <img src="assets/images/IMG-20240929-WA0006.jpg" alt="Painting 3" style="width: 300px; height: auto;">
-    <p style="text-align: center;"> - [Oil on canvas]</p>
-  </div>
+<table>
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <img src="assets/images/IMG_20241020_051207.jpg" alt="Painting 2" style="width: 300px; height: auto;">
+      <p></p>
+    </td>
+    <td style="text-align: center; padding: 20px;">
+      <img src="assets/images/IMG-20240929-WA0019.jpg" alt="Painting 6" style="width: 300px; height: auto;">
+      <p></p>
+    </td>
+  </tr>
+</table>
 
-  <div style="margin: 20px;">
-    <img src="assets/images/IMG-20240929-WA0014.jpg" alt="Painting 4" style="width: 300px; height: auto;">
-    <p style="text-align: center;"> - []</p>
-  </div>
+## Aquarelle on paper 
 
-  <div style="margin: 20px;">
-    <img src="assets/images/IMG-20240929-WA0015.jpg" alt="Painting 5" style="width: 300px; height: auto;">
-    <p style="text-align: center;"> - []</p>
-  </div>
+<table>
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <img src="assets/images/IMG_20241020_050851.jpg" alt="Painting 1" style="width: 300px; height: auto; object-fit: cover;">
+      <p></p>
+    </td>
+    <td style="text-align: center; padding: 20px;">
+      <img src="assets/images/IMG-20240929-WA0006.jpg" alt="Painting 3" style="width: 300px; height: auto; object-fit: cover;">
+      <p></p>
+    </td>
+    
+  </tr>
+</table>
 
-  <div style="margin: 20px;">
-    <img src="assets/images/IMG-20240929-WA0019.jpg" alt="Painting 6" style="width: 300px; height: auto;">
-    <p style="text-align: center;"> - []</p>
-  </div>
 
-</div>
+## Resin and glass 
+
+<table>
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <img src="assets/images/IMG-20240929-WA0014.jpg" alt="Painting 4" style="width: 300px; height: auto;">
+      <p></p>
+    </td>
+    <td style="text-align: center; padding: 20px;">
+      <img src="assets/images/IMG-20240929-WA0015.jpg" alt="Painting 5" style="width: 300px; height: auto;">
+      <p></p>
+    </td>
+  </tr>
+</table>
+
+(The first oil painting is based on the work "Fall bouquet". I thank the Afremov foundation for their kind permission to paint and display this.) 
+Thank you for your interest! 
+
