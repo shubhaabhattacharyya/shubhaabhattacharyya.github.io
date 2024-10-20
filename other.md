@@ -2,7 +2,7 @@
 
 In my spare time, I enjoy painting. Here is some of my work!
 
-<div style="font-size: 1.5em; color: #2c3e50; margin-bottom: 10px;">
+<div style="text-align: center; font-size: 1.3em; color: #2c3e50; margin-bottom: 10px;">
   <strong>Oil on canvas</strong>
 </div>
 
@@ -19,7 +19,7 @@ In my spare time, I enjoy painting. Here is some of my work!
   </tr>
 </table>
 
-<div style="font-size: 1.5em; color: #2c3e50; margin-bottom: 10px;">
+<div style="text-align: center; font-size: 1.3em; color: #2c3e50; margin-bottom: 10px;">
   <strong>Aquarelle on paper</strong>
 </div>
 
@@ -36,7 +36,7 @@ In my spare time, I enjoy painting. Here is some of my work!
   </tr>
 </table>
 
-<div style="font-size: 1.5em; color: #2c3e50; margin-bottom: 10px;">
+<div style="text-align: center; font-size: 1.3em; color: #2c3e50; margin-bottom: 10px;">
   <strong>Resin and glass</strong>
 </div>
 
@@ -53,7 +53,7 @@ In my spare time, I enjoy painting. Here is some of my work!
   </tr>
 </table>
 
-<div style="font-size: 0.9em; color: #555; margin-top: 20px;">
+<div style="font-size: 0.9em; color: #555; text-align: center; margin-top: 20px;">
   (The first oil painting is based on the work Fall Bouquet. I thank the Afremov foundation for their kind permission to paint and display this.)
 </div>
 
