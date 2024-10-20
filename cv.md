@@ -1,1 +1,1 @@
-Please download my [CV here](CV.pdf) here!
+Please download my [CV](CV.pdf) here!
