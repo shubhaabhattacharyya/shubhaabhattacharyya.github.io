@@ -1,9 +1,10 @@
 
 
-In my spare time, I enjoy painting. Here are some of them!
+In my spare time, I enjoy painting. Here is some of my work!
 
-
-## Oil on canvas 
+<div style="font-size: 1.5em; color: #2c3e50; margin-bottom: 10px;">
+  <strong>Oil on canvas</strong>
+</div>
 
 <table>
   <tr>
@@ -18,7 +19,9 @@ In my spare time, I enjoy painting. Here are some of them!
   </tr>
 </table>
 
-## Aquarelle on paper 
+<div style="font-size: 1.5em; color: #2c3e50; margin-bottom: 10px;">
+  <strong>Aquarelle on paper</strong>
+</div>
 
 <table>
   <tr>
@@ -30,12 +33,12 @@ In my spare time, I enjoy painting. Here are some of them!
       <img src="assets/images/IMG-20240929-WA0006.jpg" alt="Painting 3" style="width: 300px; height: auto; object-fit: cover;">
       <p></p>
     </td>
-    
   </tr>
 </table>
 
-
-## Resin and glass 
+<div style="font-size: 1.5em; color: #2c3e50; margin-bottom: 10px;">
+  <strong>Resin and glass</strong>
+</div>
 
 <table>
   <tr>
@@ -50,6 +53,10 @@ In my spare time, I enjoy painting. Here are some of them!
   </tr>
 </table>
 
-(The first oil painting is based on the work "Fall bouquet". I thank the Afremov foundation for their kind permission to paint and display this.) 
-Thank you for your interest! 
+<div style="font-size: 0.9em; color: #555; margin-top: 20px;">
+  (The first oil painting is based on the work Fall Bouquet. I thank the Afremov foundation for their kind permission to paint and display this.)
+</div>
 
+<div style="font-size: 1.2em; color: #2c3e50; text-align: center; margin-top: 20px;">
+  <strong>Thank you for visiting my site!</strong>
+</div>
