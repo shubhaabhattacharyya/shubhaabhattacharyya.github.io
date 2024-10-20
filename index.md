@@ -18,7 +18,7 @@ I am a PhD candidate in Economics at the Stockholm School of Economics.
 My research focuses on labour and behavioural economics, with an emphasis on behavioural biases.
 I am on the job market 2024-2025.
 
-You can reach me at [shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@hhs.se), and find my [CV](CV_Shubhaa_Bhattacharyya.pdf).
+You can reach me at [shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@hhs.se), and find my [CV](CV_Shubhaa_Bhattacharyya.pdf) here!
 
 <a href="https://x.com/darklordseuss?t=2A798GJeeGExDBSLuaf4ZQ&s=08" target="_blank"><i class="fab fa-twitter"></i> Twitter</a> | 
 <a href="https://se.linkedin.com/in/shubhaa-bhattacharyya-2b81a011b" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
