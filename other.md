@@ -54,7 +54,7 @@ In my spare time, I enjoy painting. Here is some of my work!
 </table>
 
 <div style="font-size: 0.9em; color: #555; text-align: center; margin-top: 20px;">
-  (The first oil painting is based on the work "Fall Bouquet". I thank the Afremov foundation for their kind permission to paint and display this.)
+  (The first oil painting is based on the work "Fall Bouquet". Permission to paint and display this by the Afremov foundation is kindly acknowleged.)
 </div>
 
 <div style="font-size: 1.2em; color: #2c3e50; text-align: center; margin-top: 20px;">
