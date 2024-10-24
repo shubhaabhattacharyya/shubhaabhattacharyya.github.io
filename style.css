@@ -1,15 +1,15 @@
-/* Use Georgia Font for Body and Headers */
+/* Use Times New Roman Font for Body and Headers */
 body {
-    font-family: 'Georgia', serif;
+    font-family: 'Times New Roman', Times, serif;
     color: #333;
     background-color: #f9f9f9;
     line-height: 1.7;
     margin: 20px;
 }
 
-/* Center Headers and Use Georgia */
+/* Center Headers and Use Times New Roman */
 h1, h2, h3 {
-    font-family: 'Georgia', serif;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     color: #2c3e50;
     text-align: center;
