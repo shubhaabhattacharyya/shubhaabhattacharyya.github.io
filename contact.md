@@ -1,6 +1,6 @@
 
 ## Email
-[shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@hhs.se). 
+[shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@hhs.se) 
 ## Office contact information 
 Office 729, Department of Economics
 Stockholm School of Economics
