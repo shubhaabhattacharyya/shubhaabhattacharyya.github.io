@@ -1,5 +1,7 @@
-# Research
+
 [Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact) | [Other](/other) 
+
+# Research
 
 <div class="section" style="text-align: justify;">
 
