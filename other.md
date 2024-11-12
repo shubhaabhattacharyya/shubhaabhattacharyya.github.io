@@ -1,3 +1,4 @@
+[Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact) | [Other](/other) 
 
 
 In my spare time, I enjoy painting. Here is some of my work!
