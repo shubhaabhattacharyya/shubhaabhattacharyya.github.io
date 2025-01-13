@@ -12,7 +12,7 @@
 
 <div class="section" style="text-align: justify;">
 <h3>An Experimental Approach Towards Correcting Behavioural Biases in Screen Time Use</h3>
-<p style="color: #5bc0de; font-style: italic;">Awarded: Best Student Paper Prize at the SABE/IAREP Conference, 2024</p>
+<p style="color: #5bc0de;">Awarded: Best Student Paper Prize at the SABE/IAREP Conference, 2024</p>
 <p><strong>Abstract:</strong> This paper attempts to add to the literature on experimental interventions that target excessive smartphone use. Through a conceptual framework, I first explore the consumption of screen time through reference-dependent preferences, where an individual's consumption decisions are affected by the perceived reference point which is in part determined by peer behaviour. Then, I explore the model’s predictions through an online experiment that studies the screen time habits of college students. Specifically, participants are asked to rank their current screen time habits against perceived peer behaviour, and I use a randomized treatment to correct the extent to which they may have misperceived their relative position. I find that individuals are (i) uninformed about the screen time habits of their peers, (ii) misperceive their relative position in the distribution, (iii) on average, the findings suggest correcting misperceptions through social comparisons reduces daily average screen time use. Notably, this reduction is driven solely by behavioural motives. (iv) I also find suggestive evidence of a reduction in smartphone screen time being associated with an improvement in academic grades.</p>
 </div>
 
