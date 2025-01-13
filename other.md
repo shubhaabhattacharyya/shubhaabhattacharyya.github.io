@@ -1,7 +1,7 @@
 [Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact) | [Other](/other) 
 
 
-In my spare time, I enjoy painting. Here is some of my work!
+In my spare time, I enjoy painting and playing the piano. Here is some of my work!
 
 <div style="text-align: center; font-size: 1.3em; color: #2c3e50; margin-bottom: 10px;">
   <strong>Oil on canvas</strong>
