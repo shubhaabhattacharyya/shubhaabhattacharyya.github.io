@@ -6,10 +6,8 @@
 <div class="section" style="text-align: justify;">
 
 
-<h3>Cultural Norms and the Labour Market Outcomes of Immigrants</h3> (Draft coming soon!)
-<p><strong>Abstract:</strong> This paper investigates how exposure to collectivist and individualistic cultural values shapes occupational prestige and labor market mismatches. Leveraging rich administrative data on immigrant households and a mover design, I estimate the effects of cultural assimilation. By exploiting variation in cultural exposure among immigrant siblings, I analyze how differential retention of collectivist cultural norms, proxied by age at migration (reflecting years spent in the home country), influences occupational preferences.
-The findings reveal that: (i) Greater exposure to collectivist cultural environments fosters a stronger preference for occupational prestige; (ii) However, it also leads to significant earnings mismatches, with individuals earning less than their predicted wages; and (iii) Individualistic cultural origins mitigate these mismatches by enhancing the alignment between skills and wages.
-</p>
+<h3>Cultural Assimilation and Earnings Penalties among Immigrants</h3> (<a href="/file/JMP_Shubhaa.pdf" target="_blank">Latest Version</a>)
+<p><strong>Abstract:</strong> This paper investigates how exposure to collectivist versus individualistic cultural values shapes earnings penalties in the labour market. Leveraging rich administrative data on immigrant households and by exploiting the variation in cultural exposure among immigrant siblings, I analyze how differential retention of collectivist cultural norms, proxied by age at migration, influences earning penalties in the labour market. I also explore potential cultural drivers of the earnings gap  with a focus on tenets such as occupational prestige, social value, creative component, and the routinization of tasks in jobs. The findings reveal that  exposure to collectivist cultural environments (i) leads to significant earnings penalties, with individuals earning less than their predicted wages (ii) fosters a preference for occupations with greater routinization of tasks(iii)individualistic cultural origins mitigate these gaps by enhancing the alignment between skills and wages.</p>
 </div>
 
 <div class="section" style="text-align: justify;">
