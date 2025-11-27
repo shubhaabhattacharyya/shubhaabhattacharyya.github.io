@@ -28,7 +28,7 @@ with lower earnings, both in absolute terms and relative to observable skills, w
 <h3>Gender Differences in Perceived Abilities and Career Sorting (with <em>Patrizia Massner</em>, <em>Andrew Proctor</em>)</h3>
 
 <div class="section" style="text-align: justify;">
-<h3>Non-Cooperative Technology Transfer with two-sided Credit Rationing (with <em>Sugata Marjit</em>, <em>Arijit Mukherjee</em>), <em>Lei Yang</em>)</h3>
+<h3>Non-Cooperative Technology Transfer with two-sided Credit Rationing (with <em>Sugata Marjit</em>, <em>Arijit Mukherjee</em>, <em>Lei Yang</em>)</h3>
 
 
 </div>
