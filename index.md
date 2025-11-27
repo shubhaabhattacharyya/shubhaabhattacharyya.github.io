@@ -12,11 +12,10 @@
 [Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact) | [Other](/other) 
 
 
-## Welcome to my page!
-I am a PhD candidate in Economics at the Stockholm School of Economics.
+## Welcome!
+My research focuses on labor economics, migration, and how cultural exposure shapes educational and occupational outcomes. I am particularly interested in the role of behavioral biases and social norms in economic decision-making. I completed my PhD in Economics at the Stockholm School of Economics.
 
-My research focuses on labour and behavioural economics, with an emphasis on behavioural biases.
-I am on the job market 2024-2025.
+I use large-scale Swedish registry data, causal inference, experiments, and behavioral insights to answer policy-relevant questions and support evidence-based analysis.
 
 You can reach me at [shubhaa.bhattacharyya@hhs.se](mailto:shubhaa.bhattacharyya@hhs.se), and find my [CV](CV_Shubhaa_Bhattacharyya.pdf) here!
 
