@@ -3,7 +3,7 @@
 
 <div style="margin-bottom: 20px;">
     <p>
-     Please email me at <a href="mailto:shubhaa.bhattacharyya@hhs.se" style="color: #0066cc; text-decoration: none;">shubhaa.bhattacharyya@hhs.se</a> 
+    Email: <a href="mailto:shubhaa.bhattacharyya@hhs.se" style="color: #0066cc; text-decoration: none;">shubhaa.bhattacharyya@hhs.se</a> 
     </p>
 </div>
 
